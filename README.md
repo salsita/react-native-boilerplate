@@ -1,7 +1,7 @@
 # React Native Boilerplate
 
 Why should you use it instead of pure react-native init?
-- augmented with typescript
+- augmented with typescript, redux and jest
 - nice initial demo
 - neat directory structure that scales (you are not bound to use it though!)
 
@@ -34,5 +34,5 @@ Why should you use it instead of pure react-native init?
 			"json"
 		]
 	}
-- edit index.js: change `import App from './App'` to `import App from './src/index'`	
+- edit index.js: change `import App from './App'` to `import App from './src/index'` and you can also remove the `App.js`
 - DONE!
